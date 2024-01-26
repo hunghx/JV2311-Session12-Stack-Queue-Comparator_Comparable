@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40b5ff19-3b51-4822-9910-8b6b9cd3ef52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/bt/Baitap2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2bR4UvfQoyS97Foo3K1cSo9ZZuF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Baitap2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyQueueTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -54,7 +52,20 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyQueueTest">
+  <component name="RunManager" selected="Application.Baitap2">
+    <configuration name="Baitap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.bt.Baitap2" />
+      <module name="Session12-Stack-Queue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.bt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Session12-Stack-Queue" />
@@ -71,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Baitap2" />
         <item itemvalue="Application.MyQueueTest" />
         <item itemvalue="Application.Main" />
       </list>
@@ -92,7 +104,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706164580616</updated>
-      <workItem from="1706164581779" duration="4943000" />
+      <workItem from="1706164581779" duration="5686000" />
+      <workItem from="1706232231078" duration="1075000" />
     </task>
     <servers />
   </component>
